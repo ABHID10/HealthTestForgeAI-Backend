@@ -1,4 +1,4 @@
-# AI TestGen — Backend
+# HealthTestForgeAI — Backend
 
 Comprehensive README for the backend service that hosts the ADK Master Agent, RAG helpers, document ingestion and Jira integration. This service is consumed by the React frontend.
 
